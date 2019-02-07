@@ -3,7 +3,7 @@
 }
 
 body {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Ubuntu', 'Raleway', sans-serif;
   background: #F9F8F8;
 }
 
@@ -20,7 +20,7 @@ header.header h1 {
   color: #222222;
   text-align: center;
   margin-top: 0;
-  text-transform: uppercase;
+  text-transform: none;
   font-weight: 900;
 }
 
