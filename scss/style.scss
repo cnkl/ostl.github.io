@@ -4,7 +4,7 @@ $headline-color: #222222;
 	box-sizing: border-box;
 }
 body{
-	font-family: 'Raleway', sans-serif;
+	font-family: 'ubuntu', 'Raleway', sans-serif;
 	background: $background-color;
 }
 header.header{
@@ -18,7 +18,7 @@ header.header{
 		color: $headline-color;
 		text-align: center;
 		margin-top: 0;
-		text-transform: uppercase;
+		text-transform: none;
 		font-weight: 900;
 	}
 }
